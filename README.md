@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="number.png" alt="Number Guessing Game Banner" width="100%">
+  <img src="number.png" alt="Number Guessing Game Banner" width="50%">
 </p>
 
 <h1 align="center">🎯 Crack the Code</h1>
@@ -27,8 +27,8 @@ Guess the secret number between 1 and 100 in just 10 attempts! The game gives yo
 
 ## 🚀 ScreentShot
 <p align="center">
-  <img src="nums.png" alt="Number Guessing Game " width="100%">
-  <img src="nums1.png" alt="Number Guessing Game " width="100%">
+  <img src="nums.png" alt="Number Guessing Game " width="50%">
+  <img src="nums1.png" alt="Number Guessing Game " width="50%">
 </p>
 
 ---
